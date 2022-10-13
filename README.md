@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, welcome to the main page of **Rafa Moreno** 👋
+---
+- 🇪🇸 I'm from **Spain**
+- 🌱 I’m currently learning **DAW**, Desarrollo de Aplicaiones Web
+- 👾 I know basic programming languages like Python ![Image](https://www.google.com/search?q=python&sxsrf=ALiCzsZ1qBo1iHZ_IZwcjiJ_6U_2WQ6OkQ:1665654830079&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjV_Nvj99z6AhUe_7sIHaX9ABsQ_AUoAXoECAIQAw&biw=1846&bih=948&dpr=1#imgrc=o7IMCHBzhhtY0M)
+- 💬 I've B1 titulation in Trinity
+
 
 <!--
 **RafaMoreno10/RafaMoreno10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
