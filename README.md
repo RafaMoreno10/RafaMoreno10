@@ -2,8 +2,13 @@
 ---
 - 🇪🇸 I'm from **Spain**
 - 🌱 I’m currently learning **DAW**, Desarrollo de Aplicaiones Web
-- 👾 I know basic programming languages like Python ![Image](https://www.google.com/search?q=python&sxsrf=ALiCzsZ1qBo1iHZ_IZwcjiJ_6U_2WQ6OkQ:1665654830079&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjV_Nvj99z6AhUe_7sIHaX9ABsQ_AUoAXoECAIQAw&biw=1846&bih=948&dpr=1#imgrc=o7IMCHBzhhtY0M)
 - 💬 I've B1 titulation in Trinity
+- 👾 I know basic programming languages like Python
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="left">
+<a href="https://twitter.com/rafamorenoo10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafamorenoo10" height="30" width="40" /></a>
+</p>
 
 
 <!--
