@@ -6,9 +6,6 @@
 - 👾 I know basic programming languages like Python
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-<p align="left">
-<a href="https://twitter.com/rafamorenoo10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rafamorenoo10" height="30" width="40" /></a>
-</p>
 
 
 <!--
