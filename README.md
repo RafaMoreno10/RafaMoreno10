@@ -1,7 +1,7 @@
 ### Hi there, welcome to the main page of **Rafa Moreno** 👋
 ---
 - 🇪🇸 I'm from **Spain**
-- 🌱 I’m currently learning **DAW**, Desarrollo de Aplicaiones Web
+- 🌱 I’m currently learning **DAW**, Desarrollo de Aplicaciones Web
 - 💬 English level: **B1**
 - 📫 How to reach me: rafambdaw@gmail.com
 - 👾 I know basic programming languages like Python
